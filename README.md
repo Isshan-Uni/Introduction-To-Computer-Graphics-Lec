@@ -3,8 +3,8 @@ Attached below is the image of all the shaders in order from left to right.
 2. MultiUV UV1
 3. RimEffect UV0
 4. RimEffect UV1
-5. Reflection
-6. World Pos
+5. World Pos
+6. Reflection
 7. Allprops Range 0
 8. AllProps Range 1
 
