@@ -6,7 +6,7 @@ Attached below is the image of all the shaders in order from left to right.
 5. World Pos
 6. Reflection
 7. Allprops Range 0
-8. AllProps Range 1
+8. AllProps Range 5
 
 
 <img width="1637" height="927" alt="Screenshot 2025-09-20 231818" src="https://github.com/user-attachments/assets/4813d7d3-2dd3-4893-a53c-76effa800846" />
